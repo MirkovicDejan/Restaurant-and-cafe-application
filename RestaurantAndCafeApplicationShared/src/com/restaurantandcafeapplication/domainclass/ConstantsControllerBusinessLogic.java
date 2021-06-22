@@ -1,0 +1,10 @@
+package com.restaurantandcafeapplication.domainclass;
+
+public enum ConstantsControllerBusinessLogic {
+
+	POST , GET_EMPLOYEES ,GET_FOOD,DELETE,UPDATE,GET_DRINK,GET_MENAGING_EMPLOYEES,GET_BILL,POST_FOOD_BILL,POST_DRINK_BILL,
+	DELETE_FOOD_FROM_BILLS,DELETE_DRINK_FROM_BILLS,BILL_DRINK_TABLE
+	
+	
+	
+}
