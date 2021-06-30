@@ -9,3 +9,6 @@ Go to the xammp folder, located in some local disk on your computer that you sel
 4. Start Apache and MySQL, then launch the application.
 
  The serial number must be entered manually on the client part. Because each cafe or restaurant can use a different combination of letters and numbers.
+ 
+If you want to see how the app works, watch this video:
+https://www.youtube.com/watch?v=ApWuR5Aq0po 
